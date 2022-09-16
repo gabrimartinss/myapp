@@ -19,7 +19,6 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 gem "sprockets-rails"
 
 
-
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
@@ -82,9 +81,6 @@ group :test do
 end
 
 group :production do 
-  gem 'pg'
+  #gem 'pg'
 end
 
-group :assets do
-  gem 'jquery-rails'
-end
