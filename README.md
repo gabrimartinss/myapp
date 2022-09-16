@@ -1,24 +1,33 @@
-# README
+# CRUD EXAMPLE WITH RAILS AND DOCKER
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+Project developed using helpers in Rails with Docker to manage and make the application available.
 
-* Ruby version
+### Install Application
 
-* System dependencies
+* 1º - Install Docker 
+  **[docker:Docker Ubuntu](https://docs.docker.com/engine/install/ubuntu/)**  
+  
 
-* Configuration
+* 2º - Run in terminal
+  - `sudo docker compose up -d`
+  
+  #### `output`
+  ![image](https://user-images.githubusercontent.com/69975970/190655025-a0a3e373-73ba-407b-bf61-2ebecf296097.png)
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* 3º - Open in Browser
+  
+  **[Open Browser](http://localhost:3000)**
+  
+  
+ #### `options`
+ 
+  Dokcer command !
+  
+  ##### `stop service`
+      sudo docker compose down
+    
+   ##### `list service running`
+      sudo docker compose ps
+    
