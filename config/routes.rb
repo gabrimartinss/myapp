@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :coins
   resources :departamentos
   get "produtos/busca", to: "produtos#busca", as: :busca_produto
   resources :produtos
