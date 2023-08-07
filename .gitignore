@@ -1,0 +1,4 @@
+# .gitignore
+cache/
+pids/
+compile-cache-iseq/
