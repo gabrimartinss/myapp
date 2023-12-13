@@ -4,3 +4,11 @@ Após criar um scaffold é necessário fazer um Migration (rails db:migrate) des
 O que aconteceu foi que esses dados não foi possível acessar forçando a url localhost:3000/coins mostrava erro de como se essa rota não existisse 
 mesmo depois do migration. O que eu fiz foi rebuildar a imagem com o comando "docker build -t myshop_app ." porém o container estava rodando em outra imagem.
 Fui no docker-file.yml e substitui para a imagem nova que eu criei (para ver qual imagem está sendo rodada digite docker container ps). 
+
+Comando para subir a imagem
+
+- docker build -t myshop_app .
+
+Comando para subir aplicacao
+
+- docker compose up -d
