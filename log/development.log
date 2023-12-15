@@ -288,3 +288,1098 @@ Processing by WelcomeController#index as HTML
 Completed 200 OK in 6ms (Views: 5.0ms | Allocations: 1855)
 
 
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:17:07 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  [1m[35m (2.8ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  [1m[36mActiveRecord::SchemaMigration Pluck (0.2ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.4ms | Allocations: 301)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 4.4ms | Allocations: 1042)
+  Rendered layout layouts/application.html.erb (Duration: 15.8ms | Allocations: 5491)
+Completed 200 OK in 44ms (Views: 24.2ms | ActiveRecord: 0.0ms | Allocations: 11681)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:27:36 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.7ms | Allocations: 225)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 2.1ms | Allocations: 593)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 1793)
+Completed 200 OK in 13ms (Views: 8.7ms | Allocations: 2987)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:27:37 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.4ms | Allocations: 55)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.7ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 916)
+Completed 200 OK in 3ms (Views: 2.7ms | Allocations: 1265)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:27:40 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.1ms | Allocations: 55)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.4ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 1.4ms | Allocations: 916)
+Completed 200 OK in 24ms (Views: 23.5ms | Allocations: 1246)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:28:16 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 7.4ms | Allocations: 225)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 10.9ms | Allocations: 593)
+  Rendered layout layouts/application.html.erb (Duration: 14.0ms | Allocations: 1768)
+Completed 200 OK in 21ms (Views: 17.7ms | Allocations: 2940)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:28:17 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.2ms | Allocations: 55)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 0.9ms | Allocations: 135)
+  Rendered layout layouts/application.html.erb (Duration: 2.4ms | Allocations: 913)
+Completed 200 OK in 18ms (Views: 3.7ms | Allocations: 1255)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:29:13 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.4ms | Allocations: 225)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 593)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 1765)
+Completed 200 OK in 10ms (Views: 9.0ms | Allocations: 2933)
+
+
+Started GET "/" for 172.19.0.1 at 2023-12-14 19:32:03 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by WelcomeController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering welcome/index.html.erb within layouts/application
+  Rendered welcome/_menu.html.erb (Duration: 0.4ms | Allocations: 225)
+  Rendered welcome/index.html.erb within layouts/application (Duration: 1.3ms | Allocations: 593)
+  Rendered layout layouts/application.html.erb (Duration: 11.3ms | Allocations: 1764)
+Completed 200 OK in 13ms (Views: 12.8ms | Allocations: 2944)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:33:16 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/views/coins/index.html.erb:7
+  [1m[36mCoin Load (0.9ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 16.7ms | Allocations: 7468)
+  Rendered layout layouts/application.html.erb (Duration: 18.1ms | Allocations: 8228)
+Completed 200 OK in 31ms (Views: 20.0ms | ActiveRecord: 1.8ms | Allocations: 10127)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:48:06 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/views/coins/index.html.erb:7
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 6.9ms | Allocations: 1723)
+  Rendered layout layouts/application.html.erb (Duration: 11.0ms | Allocations: 2352)
+Completed 200 OK in 13ms (Views: 12.0ms | ActiveRecord: 0.6ms | Allocations: 2736)
+
+
+Started GET "/coins/4/edit" for 172.19.0.1 at 2023-12-14 19:48:13 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#edit as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mCoin Load (0.3ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/edit.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 322.0ms | Allocations: 80115)
+  Rendered coins/edit.html.erb within layouts/application (Duration: 328.7ms | Allocations: 80556)
+  Rendered layout layouts/application.html.erb (Duration: 330.0ms | Allocations: 81202)
+Completed 200 OK in 350ms (Views: 331.3ms | ActiveRecord: 0.3ms | Allocations: 87096)
+
+
+Started GET "/coins/4" for 172.19.0.1 at 2023-12-14 19:48:17 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 1.0ms | Allocations: 279)
+  Rendered coins/show.html.erb within layouts/application (Duration: 12.5ms | Allocations: 1530)
+  Rendered layout layouts/application.html.erb (Duration: 16.2ms | Allocations: 2166)
+Completed 200 OK in 33ms (Views: 27.9ms | ActiveRecord: 0.1ms | Allocations: 3180)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:48:25 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.3ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 4.5ms | Allocations: 1096)
+  Rendered layout layouts/application.html.erb (Duration: 5.3ms | Allocations: 1726)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.3ms | Allocations: 2103)
+
+
+Started GET "/routes" for 172.19.0.1 at 2023-12-14 19:50:09 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/routes"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:54:48 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/views/coins/index.html.erb:7
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 6.1ms | Allocations: 2349)
+  Rendered layout layouts/application.html.erb (Duration: 21.3ms | Allocations: 3309)
+Completed 200 OK in 32ms (Views: 30.6ms | ActiveRecord: 0.5ms | Allocations: 4530)
+
+
+Started GET "/coins/4" for 172.19.0.1 at 2023-12-14 19:54:49 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 1.2ms | Allocations: 225)
+  Rendered coins/show.html.erb within layouts/application (Duration: 6.1ms | Allocations: 1094)
+  Rendered layout layouts/application.html.erb (Duration: 6.8ms | Allocations: 1701)
+Completed 200 OK in 12ms (Views: 9.0ms | ActiveRecord: 0.1ms | Allocations: 2637)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:54:57 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.7ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 3.9ms | Allocations: 1140)
+  Rendered layout layouts/application.html.erb (Duration: 6.4ms | Allocations: 1768)
+Completed 200 OK in 9ms (Views: 7.9ms | ActiveRecord: 0.7ms | Allocations: 2118)
+
+
+Started GET "/coins/4" for 172.19.0.1 at 2023-12-14 19:54:58 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"4"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.2ms | Allocations: 26)
+  Rendered coins/show.html.erb within layouts/application (Duration: 3.6ms | Allocations: 587)
+  Rendered layout layouts/application.html.erb (Duration: 4.3ms | Allocations: 1194)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.1ms | Allocations: 1980)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:55:02 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1122)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | Allocations: 1750)
+Completed 200 OK in 6ms (Views: 5.4ms | ActiveRecord: 0.1ms | Allocations: 2092)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 19:58:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 2.2ms | Allocations: 1884)
+  Rendered coins/new.html.erb within layouts/application (Duration: 3.8ms | Allocations: 2259)
+  Rendered layout layouts/application.html.erb (Duration: 4.9ms | Allocations: 3196)
+Completed 200 OK in 12ms (Views: 11.2ms | ActiveRecord: 0.0ms | Allocations: 4416)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 19:59:27 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"Penismon", "acronym"=>"PNM", "url_image"=>"data:image/jpeg;base64,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"}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.4ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "Penismon"], ["acronym", "PNM"], ["url_image", "data:image/jpeg;base64,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"], ["created_at", "2023-12-14 19:59:27.840352"], ["updated_at", "2023-12-14 19:59:27.840352"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (10.7ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/5
+Completed 302 Found in 20ms (ActiveRecord: 11.2ms | Allocations: 3568)
+
+
+Started GET "/coins/5" for 172.19.0.1 at 2023-12-14 19:59:27 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"5"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.4ms | Allocations: 224)
+  Rendered coins/show.html.erb within layouts/application (Duration: 2.1ms | Allocations: 1236)
+  Rendered layout layouts/application.html.erb (Duration: 2.8ms | Allocations: 1866)
+Completed 200 OK in 5ms (Views: 3.3ms | ActiveRecord: 0.1ms | Allocations: 2862)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:59:31 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 4.8ms | Allocations: 1436)
+  Rendered layout layouts/application.html.erb (Duration: 6.3ms | Allocations: 2064)
+Completed 200 OK in 9ms (Views: 6.7ms | ActiveRecord: 0.1ms | Allocations: 2485)
+
+
+Started GET "/coins/5/edit" for 172.19.0.1 at 2023-12-14 19:59:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#edit as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/edit.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 5.0ms | Allocations: 1394)
+  Rendered coins/edit.html.erb within layouts/application (Duration: 7.1ms | Allocations: 1705)
+  Rendered layout layouts/application.html.erb (Duration: 8.0ms | Allocations: 2312)
+Completed 200 OK in 12ms (Views: 8.8ms | ActiveRecord: 0.1ms | Allocations: 3151)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:59:37 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 9.4ms | Allocations: 1112)
+  Rendered layout layouts/application.html.erb (Duration: 10.1ms | Allocations: 1740)
+Completed 200 OK in 11ms (Views: 10.6ms | ActiveRecord: 0.1ms | Allocations: 2082)
+
+
+Started GET "/coins/5" for 172.19.0.1 at 2023-12-14 19:59:38 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.2ms | Allocations: 27)
+  Rendered coins/show.html.erb within layouts/application (Duration: 1.2ms | Allocations: 588)
+  Rendered layout layouts/application.html.erb (Duration: 2.0ms | Allocations: 1195)
+Completed 200 OK in 5ms (Views: 2.4ms | ActiveRecord: 0.1ms | Allocations: 1982)
+
+
+Started DELETE "/coins/5" for 172.19.0.1 at 2023-12-14 19:59:40 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"5"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.9ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 5]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (8.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 28ms (ActiveRecord: 9.2ms | Allocations: 2380)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 19:59:40 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1012)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 1640)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.1ms | Allocations: 1985)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:06 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ app/views/coins/index.html.erb:7
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 5.6ms | Allocations: 2760)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 3695)
+Completed 200 OK in 31ms (Views: 15.1ms | ActiveRecord: 0.4ms | Allocations: 4890)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:10 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:10 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1518)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | Allocations: 2133)
+Completed 200 OK in 6ms (Views: 4.8ms | ActiveRecord: 0.1ms | Allocations: 2495)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:12 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:12 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 4.9ms | Allocations: 1514)
+  Rendered layout layouts/application.html.erb (Duration: 6.9ms | Allocations: 2129)
+Completed 200 OK in 9ms (Views: 8.2ms | ActiveRecord: 0.1ms | Allocations: 2469)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:13 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:13 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.3ms | Allocations: 1510)
+  Rendered layout layouts/application.html.erb (Duration: 3.6ms | Allocations: 2125)
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.1ms | Allocations: 2465)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:14 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:14 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 3.8ms | Allocations: 1510)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 2125)
+Completed 200 OK in 8ms (Views: 7.5ms | ActiveRecord: 0.1ms | Allocations: 2465)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:15 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:15 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 21.4ms | Allocations: 1512)
+  Rendered layout layouts/application.html.erb (Duration: 22.4ms | Allocations: 2127)
+Completed 200 OK in 28ms (Views: 23.8ms | ActiveRecord: 0.1ms | Allocations: 2467)
+
+
+Started DELETE "/coins" for 172.19.0.1 at 2023-12-14 20:09:16 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [DELETE] "/coins"):
+  
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:16 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1508)
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 2123)
+Completed 200 OK in 7ms (Views: 6.6ms | ActiveRecord: 0.1ms | Allocations: 2463)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:09:31 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 2.6ms | Allocations: 1866)
+  Rendered coins/new.html.erb within layouts/application (Duration: 3.7ms | Allocations: 2241)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 3178)
+Completed 200 OK in 8ms (Views: 6.7ms | ActiveRecord: 0.0ms | Allocations: 4369)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:09:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"rgergreg", "acronym"=>"reg", "url_image"=>""}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.7ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "rgergreg"], ["acronym", "reg"], ["url_image", ""], ["created_at", "2023-12-14 20:09:35.433043"], ["updated_at", "2023-12-14 20:09:35.433043"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (25.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/6
+Completed 302 Found in 32ms (ActiveRecord: 26.5ms | Allocations: 2369)
+
+
+Started GET "/coins/6" for 172.19.0.1 at 2023-12-14 20:09:35 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"6"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.3ms | Allocations: 221)
+  Rendered coins/show.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1174)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 1781)
+Completed 200 OK in 7ms (Views: 4.8ms | ActiveRecord: 0.1ms | Allocations: 2756)
+
+
+Started DELETE "/coins/6" for 172.19.0.1 at 2023-12-14 20:09:36 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"6"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 6], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.3ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 6]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (7.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 16ms (ActiveRecord: 7.8ms | Allocations: 2270)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:36 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 3.2ms | Allocations: 1817)
+  Rendered layout layouts/application.html.erb (Duration: 4.5ms | Allocations: 2432)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.1ms | Allocations: 2857)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:09:38 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 2.1ms | Allocations: 1241)
+  Rendered coins/new.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1343)
+  Rendered layout layouts/application.html.erb (Duration: 4.7ms | Allocations: 1958)
+Completed 200 OK in 8ms (Views: 6.8ms | ActiveRecord: 0.0ms | Allocations: 2304)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:09:40 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"ergerg", "acronym"=>"rgg", "url_image"=>""}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.2ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "ergerg"], ["acronym", "rgg"], ["url_image", ""], ["created_at", "2023-12-14 20:09:40.997889"], ["updated_at", "2023-12-14 20:09:40.997889"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (10.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/7
+Completed 302 Found in 15ms (ActiveRecord: 10.7ms | Allocations: 2201)
+
+
+Started GET "/coins/7" for 172.19.0.1 at 2023-12-14 20:09:41 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"7"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered coins/show.html.erb within layouts/application (Duration: 1.1ms | Allocations: 613)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1220)
+Completed 200 OK in 5ms (Views: 3.0ms | ActiveRecord: 0.1ms | Allocations: 2009)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:42 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.0ms | Allocations: 1809)
+  Rendered layout layouts/application.html.erb (Duration: 3.3ms | Allocations: 2424)
+Completed 200 OK in 8ms (Views: 4.3ms | ActiveRecord: 0.1ms | Allocations: 2766)
+
+
+Started DELETE "/coins/7" for 172.19.0.1 at 2023-12-14 20:09:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"7"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 7], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.9ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 7]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (17.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 24ms (ActiveRecord: 18.4ms | Allocations: 2260)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:45 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1473)
+  Rendered layout layouts/application.html.erb (Duration: 3.9ms | Allocations: 2088)
+Completed 200 OK in 5ms (Views: 4.7ms | ActiveRecord: 0.1ms | Allocations: 2433)
+
+
+Started DELETE "/coins/4" for 172.19.0.1 at 2023-12-14 20:09:48 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"4"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 4], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.2ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 4]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (29.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 38ms (ActiveRecord: 29.7ms | Allocations: 2244)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:48 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1108)
+  Rendered layout layouts/application.html.erb (Duration: 3.5ms | Allocations: 1723)
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.1ms | Allocations: 2068)
+
+
+Started DELETE "/coins/3" for 172.19.0.1 at 2023-12-14 20:09:50 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"3"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 3], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.4ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 3]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (15.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 32ms (ActiveRecord: 15.8ms | Allocations: 2266)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:09:50 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.8ms | Allocations: 727)
+  Rendered layout layouts/application.html.erb (Duration: 5.0ms | Allocations: 1355)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.1ms | Allocations: 1702)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:09:52 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 5.6ms | Allocations: 1239)
+  Rendered coins/new.html.erb within layouts/application (Duration: 6.3ms | Allocations: 1341)
+  Rendered layout layouts/application.html.erb (Duration: 7.6ms | Allocations: 1956)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms | Allocations: 2301)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:09:59 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"teste", "acronym"=>"ted", "url_image"=>""}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.3ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.2ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "teste"], ["acronym", "ted"], ["url_image", ""], ["created_at", "2023-12-14 20:09:59.255824"], ["updated_at", "2023-12-14 20:09:59.255824"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (13.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/8
+Completed 302 Found in 18ms (ActiveRecord: 13.9ms | Allocations: 2199)
+
+
+Started GET "/coins/8" for 172.19.0.1 at 2023-12-14 20:09:59 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"8"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered coins/show.html.erb within layouts/application (Duration: 1.3ms | Allocations: 593)
+  Rendered layout layouts/application.html.erb (Duration: 2.2ms | Allocations: 1200)
+Completed 200 OK in 7ms (Views: 3.5ms | ActiveRecord: 0.1ms | Allocations: 1989)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:10:05 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 1.7ms | Allocations: 1109)
+  Rendered layout layouts/application.html.erb (Duration: 2.5ms | Allocations: 1724)
+Completed 200 OK in 7ms (Views: 6.2ms | ActiveRecord: 0.1ms | Allocations: 2067)
+
+
+Started DELETE "/coins/8" for 172.19.0.1 at 2023-12-14 20:10:07 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"8"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 8], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.3ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 8]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (8.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 17ms (ActiveRecord: 8.7ms | Allocations: 2251)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:10:07 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 3.1ms | Allocations: 742)
+  Rendered layout layouts/application.html.erb (Duration: 4.2ms | Allocations: 1370)
+Completed 200 OK in 11ms (Views: 10.3ms | ActiveRecord: 0.1ms | Allocations: 1715)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:11:55 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 4.9ms | Allocations: 1862)
+  Rendered coins/new.html.erb within layouts/application (Duration: 6.0ms | Allocations: 2238)
+  Rendered layout layouts/application.html.erb (Duration: 7.5ms | Allocations: 3175)
+Completed 200 OK in 13ms (Views: 11.4ms | ActiveRecord: 0.0ms | Allocations: 4363)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:11:58 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"ryt", "acronym"=>"rtyrty", "url_image"=>""}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.3ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "ryt"], ["acronym", "rtyrty"], ["url_image", ""], ["created_at", "2023-12-14 20:11:58.514677"], ["updated_at", "2023-12-14 20:11:58.514677"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (10.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/9
+Completed 302 Found in 15ms (ActiveRecord: 10.6ms | Allocations: 2365)
+
+
+Started GET "/coins/9" for 172.19.0.1 at 2023-12-14 20:11:58 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"9"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.4ms | Allocations: 221)
+  Rendered coins/show.html.erb within layouts/application (Duration: 2.2ms | Allocations: 1156)
+  Rendered layout layouts/application.html.erb (Duration: 3.0ms | Allocations: 1763)
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 0.1ms | Allocations: 2709)
+
+
+Started GET "/coins/9" for 172.19.0.1 at 2023-12-14 20:11:59 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"9"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered coins/show.html.erb within layouts/application (Duration: 1.0ms | Allocations: 586)
+  Rendered layout layouts/application.html.erb (Duration: 1.9ms | Allocations: 1193)
+Completed 200 OK in 7ms (Views: 2.6ms | ActiveRecord: 0.1ms | Allocations: 1976)
+
+
+Started DELETE "/coins/9" for 172.19.0.1 at 2023-12-14 20:12:01 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"9"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 9], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.5ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 9]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (14.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 39ms (ActiveRecord: 14.9ms | Allocations: 2266)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:12:01 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.9ms | Allocations: 1081)
+  Rendered layout layouts/application.html.erb (Duration: 3.7ms | Allocations: 1709)
+Completed 200 OK in 7ms (Views: 6.3ms | ActiveRecord: 0.1ms | Allocations: 2133)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:12:04 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 2.4ms | Allocations: 714)
+  Rendered layout layouts/application.html.erb (Duration: 5.4ms | Allocations: 1342)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.1ms | Allocations: 1682)
+
+
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:12:05 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 1.5ms | Allocations: 1231)
+  Rendered coins/new.html.erb within layouts/application (Duration: 6.4ms | Allocations: 1333)
+  Rendered layout layouts/application.html.erb (Duration: 8.4ms | Allocations: 1948)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms | Allocations: 2294)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:12:08 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"rty", "acronym"=>"rte", "url_image"=>""}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.1ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (0.7ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "rty"], ["acronym", "rte"], ["url_image", ""], ["created_at", "2023-12-14 20:12:08.024910"], ["updated_at", "2023-12-14 20:12:08.024910"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (12.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/10
+Completed 302 Found in 25ms (ActiveRecord: 13.0ms | Allocations: 2193)
+
+
+Started GET "/coins/10" for 172.19.0.1 at 2023-12-14 20:12:08 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"10"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 10], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.1ms | Allocations: 25)
+  Rendered coins/show.html.erb within layouts/application (Duration: 1.2ms | Allocations: 601)
+  Rendered layout layouts/application.html.erb (Duration: 2.6ms | Allocations: 1208)
+Completed 200 OK in 5ms (Views: 3.4ms | ActiveRecord: 0.1ms | Allocations: 1997)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:12:10 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 1110)
+  Rendered layout layouts/application.html.erb (Duration: 3.4ms | Allocations: 1725)
+Completed 200 OK in 6ms (Views: 5.1ms | ActiveRecord: 0.1ms | Allocations: 2067)
+
+
+Started DELETE "/coins/10" for 172.19.0.1 at 2023-12-14 20:12:12 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#destroy as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "id"=>"10"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 10], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mCoin Destroy (0.3ms)[0m  [1m[31mDELETE FROM "coins" WHERE "coins"."id" = ?[0m  [["id", 10]]
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+  [1m[36mTRANSACTION (17.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:52:in `destroy'
+Redirected to http://localhost:3000/coins
+Completed 302 Found in 24ms (ActiveRecord: 17.4ms | Allocations: 2258)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:12:12 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as TURBO_STREAM
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 1.9ms | Allocations: 724)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 1352)
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.1ms | Allocations: 1697)
+
+
+Started GET "/coins/routes" for 172.19.0.1 at 2023-12-14 20:12:41 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"routes"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+Completed 404 Not Found in 1ms (ActiveRecord: 0.1ms | Allocations: 930)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Coin with 'id'=routes):
+  
+app/controllers/coins_controller.rb:63:in `set_coin'
+Started GET "/coins/routes" for 172.19.0.1 at 2023-12-14 20:12:44 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"routes"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+Completed 404 Not Found in 3ms (ActiveRecord: 0.1ms | Allocations: 901)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Coin with 'id'=routes):
+  
+app/controllers/coins_controller.rb:63:in `set_coin'
+Started GET "/coins/new" for 172.19.0.1 at 2023-12-14 20:12:46 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#new as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/new.html.erb within layouts/application
+  Rendered coins/_form.html.erb (Duration: 2.9ms | Allocations: 1872)
+  Rendered coins/new.html.erb within layouts/application (Duration: 4.4ms | Allocations: 2245)
+  Rendered layout layouts/application.html.erb (Duration: 6.5ms | Allocations: 3182)
+Completed 200 OK in 14ms (Views: 9.7ms | ActiveRecord: 0.0ms | Allocations: 4398)
+
+
+Started POST "/coins" for 172.19.0.1 at 2023-12-14 20:13:48 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#create as TURBO_STREAM
+  Parameters: {"authenticity_token"=>"[FILTERED]", "coin"=>{"description"=>"Doggie", "acronym"=>"DOG", "url_image"=>"data:image/jpeg;base64,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"}, "commit"=>"Criar Coin"}
+  [1m[36mTRANSACTION (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mCoin Create (2.4ms)[0m  [1m[32mINSERT INTO "coins" ("description", "acronym", "url_image", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["description", "Doggie"], ["acronym", "DOG"], ["url_image", "data:image/jpeg;base64,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"], ["created_at", "2023-12-14 20:13:48.299128"], ["updated_at", "2023-12-14 20:13:48.299128"]]
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+  [1m[36mTRANSACTION (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/coins_controller.rb:27:in `block in create'
+Redirected to http://localhost:3000/coins/11
+Completed 302 Found in 21ms (ActiveRecord: 14.5ms | Allocations: 2369)
+
+
+Started GET "/coins/11" for 172.19.0.1 at 2023-12-14 20:13:48 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as TURBO_STREAM
+  Parameters: {"id"=>"11"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", 11], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+  Rendering layout layouts/application.html.erb
+  Rendering coins/show.html.erb within layouts/application
+  Rendered coins/_coin.html.erb (Duration: 0.8ms | Allocations: 223)
+  Rendered coins/show.html.erb within layouts/application (Duration: 2.4ms | Allocations: 1171)
+  Rendered layout layouts/application.html.erb (Duration: 3.2ms | Allocations: 1778)
+Completed 200 OK in 10ms (Views: 8.3ms | ActiveRecord: 0.1ms | Allocations: 2724)
+
+
+Started GET "/coins" for 172.19.0.1 at 2023-12-14 20:13:51 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#index as HTML
+  Rendering layout layouts/application.html.erb
+  Rendering coins/index.html.erb within layouts/application
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins"[0m
+  ↳ app/views/coins/index.html.erb:7
+  Rendered coins/index.html.erb within layouts/application (Duration: 6.6ms | Allocations: 1445)
+  Rendered layout layouts/application.html.erb (Duration: 12.6ms | Allocations: 2060)
+Completed 200 OK in 14ms (Views: 12.9ms | ActiveRecord: 0.1ms | Allocations: 2481)
+
+
+Started GET "/coins/path" for 172.19.0.1 at 2023-12-14 20:13:58 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"path"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+Completed 404 Not Found in 1ms (ActiveRecord: 0.1ms | Allocations: 909)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Coin with 'id'=path):
+  
+app/controllers/coins_controller.rb:63:in `set_coin'
+Started GET "/coins/routes" for 172.19.0.1 at 2023-12-14 20:14:02 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by CoinsController#show as HTML
+  Parameters: {"id"=>"routes"}
+  [1m[36mCoin Load (0.1ms)[0m  [1m[34mSELECT "coins".* FROM "coins" WHERE "coins"."id" = ? LIMIT ?[0m  [["id", nil], ["LIMIT", 1]]
+  ↳ app/controllers/coins_controller.rb:63:in `set_coin'
+Completed 404 Not Found in 2ms (ActiveRecord: 0.1ms | Allocations: 901)
+
+
+  
+ActiveRecord::RecordNotFound (Couldn't find Coin with 'id'=routes):
+  
+app/controllers/coins_controller.rb:63:in `set_coin'
+Started GET "/info/routes" for 172.19.0.1 at 2023-12-14 20:14:17 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+  
+ActionController::RoutingError (No route matches [GET] "/info/routes"):
+  
+Started GET "/rails/info/routes?path=delet" for 172.19.0.1 at 2023-12-14 20:14:21 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"delet"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 2430)
+
+
+Started GET "/rails/info/routes?path=del" for 172.19.0.1 at 2023-12-14 20:14:22 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"del"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 901)
+
+
+Started GET "/rails/info/routes?path=dest" for 172.19.0.1 at 2023-12-14 20:14:23 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"dest"}
+Completed 200 OK in 2ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 900)
+
+
+Started GET "/rails/info/routes?path=destro" for 172.19.0.1 at 2023-12-14 20:14:23 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"destro"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 901)
+
+
+Started GET "/rails/info/routes?path=destrou" for 172.19.0.1 at 2023-12-14 20:14:24 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"destrou"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 901)
+
+
+Started GET "/rails/info/routes?path=destroy" for 172.19.0.1 at 2023-12-14 20:14:24 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"destroy"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 900)
+
+
+Started GET "/rails/info/routes?path=destroy" for 172.19.0.1 at 2023-12-14 20:14:25 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"destroy"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 898)
+
+
+Started GET "/rails/info/routes?path=cpo" for 172.19.0.1 at 2023-12-14 20:14:37 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"cpo"}
+Completed 200 OK in 1ms (Views: 0.1ms | ActiveRecord: 0.0ms | Allocations: 901)
+
+
+Started GET "/rails/info/routes?path=c" for 172.19.0.1 at 2023-12-14 20:14:38 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"c"}
+Completed 200 OK in 3ms (Views: 0.4ms | ActiveRecord: 0.0ms | Allocations: 1684)
+
+
+Started GET "/rails/info/routes?path=coin" for 172.19.0.1 at 2023-12-14 20:14:39 +0000
+Cannot render console from 172.19.0.1! Allowed networks: 127.0.0.0/127.255.255.255, ::1
+Processing by Rails::InfoController#routes as */*
+  Parameters: {"path"=>"coin"}
+Completed 200 OK in 1ms (Views: 0.2ms | ActiveRecord: 0.0ms | Allocations: 1011)
+
+

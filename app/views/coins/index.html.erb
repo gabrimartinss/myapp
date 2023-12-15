@@ -12,6 +12,7 @@
         <td>
           <%= link_to "Show", coin %>
           <%= link_to "Edit", edit_coin_path(coin) %>
+          <%= button_to "Delete", coin, method: :delete %>
         </td>
       </tr>
     <% end %>
