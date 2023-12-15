@@ -11,21 +11,10 @@
   </head>
 
   <body>
-    <%= nav_bar brand: "Loja", brand_link: root_url do %>
-      <%= menu_group do %>
-        <%= menu_item "Criar novo Produto", new_produto_path %>
-        <%= menu_item "Departamentos", departamentos_path %>
-      <% end %>
-      <%= form_tag busca_produto_path, method: :get , class:"navbar-form navbar-right" do %>
-        <div class="form-group">
-          <%= text_field_tag :nome, @name, class:"form-control" %>
-          <%= button_to "Buscar", nil, class:"btn btn-default" %>
-        </div>
-      <% end %>
-    <% end %>
-
     <div class="container">
+      <h1>CABECALHO</h1>
       <%= yield %>
+      <h1>RODAPE</h1>
     </div>
   </body>
 </html>
